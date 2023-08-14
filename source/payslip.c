@@ -1,3 +1,12 @@
+/* 
+    
+    Written By Anirudh Singh
+    Github : https://github.com/violentanirudh/c
+    
+    PaySlip Calculator.
+
+*/
+
 #include<stdio.h>
 
 #define DA 10

@@ -1,3 +1,12 @@
+/* 
+    
+    Written By Anirudh Singh
+    Github : https://github.com/violentanirudh/c
+    
+    Simple Interest Calculator.
+
+*/
+
 #include<stdio.h>
 
 int main() {

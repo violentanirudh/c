@@ -1,4 +1,11 @@
-// Find average of the numbers
+/* 
+    
+    Written By Anirudh Singh
+    Github : https://github.com/violentanirudh/c
+    
+    A program to find average of multiple numbers.
+
+*/
 
 #include<stdio.h>
 

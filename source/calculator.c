@@ -1,3 +1,12 @@
+/* 
+    
+    Written By Anirudh Singh
+    Github : https://github.com/violentanirudh/c
+    
+    A Simple Calculator with addition, substraction,  multiplication and divison.
+
+*/
+
 #include<stdio.h>
 
 int main() 

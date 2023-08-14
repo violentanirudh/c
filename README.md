@@ -12,3 +12,4 @@ Programming using C
 - average.c
 - factorial.c
 - matrics.c (incomplete)
+- digitsum.c

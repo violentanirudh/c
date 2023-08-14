@@ -1,3 +1,12 @@
+/* 
+    
+    Written By Anirudh Singh
+    Github : https://github.com/violentanirudh/c
+    
+    Euclid's Division Algorithm.
+
+*/
+
 #include<stdio.h>
 
 int main()

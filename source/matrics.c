@@ -1,3 +1,12 @@
+/* 
+    
+    Written By Anirudh Singh
+    Github : https://github.com/violentanirudh/c
+    
+    A program to perform matric operations. (Incomplete)
+
+*/
+
 #include<stdio.h>
 
 int main()
