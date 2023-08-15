@@ -13,3 +13,4 @@ Programming using C
 - factorial.c
 - matrics.c (incomplete)
 - sumofdigits.c
+- discount.c
