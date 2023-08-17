@@ -14,3 +14,5 @@ Programming using C
 - matrics.c (incomplete)
 - sumofdigits.c
 - discount.c
+- speed.c
+- minmax.c

@@ -1,3 +1,12 @@
+/* 
+    
+    Written By Anirudh Singh
+    Github : https://github.com/violentanirudh/c
+    
+    Calculate Speed of object in m/s and km/h.
+
+*/
+
 #include<stdio.h>
 
 float calculator(float distance, float time);
